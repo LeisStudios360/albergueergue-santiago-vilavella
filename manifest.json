@@ -1,6 +1,5 @@
 {
- "theme_color": "#F0ECE1",
- "name": "Albergue Santiago de Vilavella 1 (Duplicado)",
+ "background_color": "#F0ECE1",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -38,7 +37,8 @@
    "sizes": "180x180"
   }
  ],
- "start_url": "index.html?installed=true",
  "display": "fullscreen",
- "background_color": "#F0ECE1"
+ "name": "Albergue Santiago de Vilavella 1 (Duplicado)",
+ "start_url": "index.html?installed=true",
+ "theme_color": "#F0ECE1"
 }
