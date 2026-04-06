@@ -3,32 +3,8 @@
 ## Acción
 
 ### URL
-LinkBehaviour_31D7A8DD_6144_F9AB_41C8_2385F370087C.source = https://maps.app.goo.gl/VY4ZA89Bhn4Aoqg76
 LinkBehaviour_31611F5C_7C6B_98AC_41AE_6D9642AC9020.source = https://maps.app.goo.gl/VY4ZA89Bhn4Aoqg76
-LinkBehaviour_1EF38AB8_76B3_1686_41D3_E02564B6A549.source = https://maps.app.goo.gl/bumDhssbSGv19T2b6
-LinkBehaviour_14C16583_768D_128A_41D6_EBE4EF8224CF.source = https://maps.app.goo.gl/bumDhssbSGv19T2b6
-
-## Hotspot
-
-### Texto
-HotspotPanoramaOverlayTextImage_0E112A29_631F_5309_41D0_AA6024A51632.text = DORMITORIOS
-HotspotPanoramaOverlayTextImage_0F5B6546_6313_517B_41CC_194F0088DC3E.text = DORMITORIOS
-HotspotPanoramaOverlayTextImage_08FB656F_631D_D109_41D2_89C60DCEC95D.text = DORMITORIOS
-HotspotPanoramaOverlayTextImage_3CC468DB_630D_5F09_41B2_D6B8BFDE6E0B.text = DORMITORIOS
-HotspotPanoramaOverlayTextImage_0F6C3098_631C_CF17_41BA_ECE0D0BEA01C.text = DORMITORIOS
-QuadHotspotPanoramaOverlayTextImage_17BB1425_7697_318E_41C2_926D3760FF68.text = ISLA DE SAN SIMON CESANTES
-HotspotPanoramaOverlayTextImage_16BBF5BA_7695_72FA_4198_016B8856D0E8.text = RECEPCIÓN
-HotspotPanoramaOverlayTextImage_389B17B3_63BE_8E7F_41B5_6CED755B84A8.text = SALIDA
-HotspotPanoramaOverlayTextImage_34541E81_638F_BE1B_41C7_4F8C18E0FE3A.text = SALIDA
-HotspotPanoramaOverlayTextImage_380B00B0_63BF_8279_41B8_E2CB087DEC88.text = SALIDA
-HotspotPanoramaOverlayTextImage_3058C2F2_63B1_87F9_41BE_0060DB67C2D6.text = SALIDA
-HotspotPanoramaOverlayTextImage_378CDBD8_63B6_8629_41A1_921F5685C786.text = SALIDA
-HotspotPanoramaOverlayTextImage_30777F8D_63B2_7E2B_41B8_42DC78144BA6.text = SALIDA
-HotspotPanoramaOverlayTextImage_305E7D41_63B7_821B_41D8_2DB5A1D3DE0F.text = SALIDA
-HotspotPanoramaOverlayTextImage_2FD39F59_7693_2F86_41C4_34519B4DD339.text = WIFI
-
-### Tooltip
-HotspotPanoramaOverlayArea_306D0F2A_7614_E903_41DB_73E5A5EB6142.toolTip = Planta 1
+LinkBehaviour_31D7A8DD_6144_F9AB_41C8_2385F370087C.source = https://maps.app.goo.gl/VY4ZA89Bhn4Aoqg76
 
 ## Media
 
@@ -38,82 +14,62 @@ audiores_379E44F5_62BB_E7ED_41C1_0E3761DBCE3F.mp3Url = media/audio_31AD2401_62BA
 ### Floorplan
 
 ### Imágen
-imlevel_25F2765F_3E8E_0B09_41A2_8489CA9B22DC.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_0.webp
-imlevel_25F2665F_3E8E_0B09_41B9_90FD92CCC38A.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_1.webp
-imlevel_25F2465F_3E8E_0B09_41CA_26D967F6107D.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_2.webp
-imlevel_25F2B65F_3E8E_0B09_4190_F0205FD28849.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_3.webp
-imlevel_CCA18CF0_D6F3_E4A2_41E7_953020961862.url = media/panorama_4A9B4289_6144_29AB_41D6_3C6173CB1704_HS_pvd7p618_es.webp
-imlevel_CCA31D02_D6F3_E566_41A3_28FDE2EAC12D.url = media/panorama_4A9B4A8A_6144_39A9_41C3_B172C209D267_HS_qo07l926_es.webp
-imlevel_CFE971E2_D6F3_BCA6_41B4_9EF618B22398.url = media/panorama_4A9C4516_6144_28B9_41C8_985877C1B62F_HS_0819xdu1_es.webp
-imlevel_CFE831D1_D6F3_BCE2_41E1_7D1C0611D37B.url = media/panorama_4A9C4516_6144_28B9_41C8_985877C1B62F_HS_hq35ffz0_es.webp
-imlevel_CFEBA203_D6F3_BF66_41DC_5D34D2CBA136.url = media/panorama_4A9C4516_6144_28B9_41C8_985877C1B62F_HS_jpo6h2sn_es.webp
-imlevel_CE18E447_D6F3_9BEE_41E7_EB6AC1D0AA19.url = media/panorama_4A9C4516_6144_28B9_41C8_985877C1B62F_HS_ntgreabf_es.webp
-imlevel_CD4104C9_D6F3_A4E2_41DF_0A19DBC4FC70.url = media/panorama_4A9C8CF7_6144_3967_41B5_21BB22357EBC_HS_4dtpqbsj_es.webp
-imlevel_CCDA8C1E_D6F3_EB9E_41E2_243E0D9356F2.url = media/panorama_4A9CDCE8_6144_5969_41D4_9B026283AA7D_HS_v0lxw0hm_es.webp
-imlevel_CE192433_D6F3_9BA6_41E4_11D590545CB7.url = media/panorama_4A9CF4F1_6144_E97B_41D4_DC19562268C9_HS_rnis33uh_es.webp
-imlevel_CCA10CDD_D6F3_E4E2_41E3_486809155ABC.url = media/panorama_4A9E3A87_6147_D9A7_41D0_74F325DF2214_HS_a7m4yzgm_es.webp
-imlevel_CCDF8CA1_D6F3_E4A2_41E5_F8777B04331E.url = media/panorama_4A9E4445_6144_289B_41C9_CDC5CF224DEE_HS_pgi5v3b9_es.webp
-imlevel_CCDE5C86_D6F3_EB6E_41B7_378717B988BE.url = media/panorama_4A9E4445_6144_289B_41C9_CDC5CF224DEE_HS_tk8s313z_es.webp
-imlevel_CCA14CB6_D6F3_E4AE_41D1_5D16497C93C1.url = media/panorama_4A9E8C37_6144_38E7_41CE_07AC840B3A28_HS_jvls2re5_es.webp
-imlevel_CCDCDC41_D6F3_EBE2_41DC_B21967309E8E.url = media/panorama_4A9EF487_6144_69A7_41BB_3E0306B0E78B_HS_c9m8fv86_es.webp
-imlevel_CCDE2C73_D6F3_EBA6_41C1_44412A42842B.url = media/panorama_4A9F7C67_6144_5967_41C1_0795E3B4854C_HS_keg0bru0_es.webp
-imlevel_CD4BF6CD_D6F3_A4E2_41C2_250C51F15BB1.url = media/panorama_4A9FD508_6144_28A9_41A7_84546AD4E4DE_HS_5jce01i3_es.webp
-imlevel_CCDD7BFA_D6F3_ECA6_41E6_D4BDCEDDAA40.url = media/popup_2C50C16D_76F5_139E_41DA_98737A40A306_es_0_0.webp
-imlevel_CCDB6BFA_D6F3_ECA6_41D1_FD1BF6481694.url = media/popup_2C50C16D_76F5_139E_41DA_98737A40A306_es_0_1.webp
-imlevel_CCDB7BFA_D6F3_ECA6_41D4_4358A4505ED3.url = media/popup_2C50C16D_76F5_139E_41DA_98737A40A306_es_0_2.webp
-imlevel_CCDB4BFA_D6F3_ECA6_41E0_3B6A6518C88C.url = media/popup_2C50C16D_76F5_139E_41DA_98737A40A306_es_0_3.webp
-imlevel_CFE9B1B8_D6F3_BCA2_41DE_041B71BDFD28.url = media/popup_37B2EBD0_767D_1686_41C2_479CB5CF413E_es_0_0.webp
-imlevel_CFE9D1B8_D6F3_BCA2_41B6_2AC4863A9C54.url = media/popup_37B2EBD0_767D_1686_41C2_479CB5CF413E_es_0_1.webp
-imlevel_CFE9C1B8_D6F3_BCA2_41E5_699A808C66FD.url = media/popup_37B2EBD0_767D_1686_41C2_479CB5CF413E_es_0_2.webp
-imlevel_CFE9E1B8_D6F3_BCA2_41C9_EA9A3BBFCB7B.url = media/popup_37B2EBD0_767D_1686_41C2_479CB5CF413E_es_0_3.webp
-imlevel_CFE811B8_D6F3_BCA2_41E3_CE0D0B27F489.url = media/popup_37B2EBD0_767D_1686_41C2_479CB5CF413E_es_0_4.webp
-imlevel_CCCF47CD_D6F3_A4E2_41C9_8E0D70595E4A.url = media/popup_3F66287B_7617_D701_41B1_76C9E3150D8A_es_0_0.webp
-imlevel_CCCF77CD_D6F3_A4E2_41CD_C03A45B7A07B.url = media/popup_3F66287B_7617_D701_41B1_76C9E3150D8A_es_0_1.webp
-imlevel_CCCF67CD_D6F3_A4E2_41E3_5F9210F2EA8B.url = media/popup_3F66287B_7617_D701_41B1_76C9E3150D8A_es_0_2.webp
-imlevel_CCDA6C0C_D6F3_EB62_41DF_4818C0FA8354.url = media/popup_C5C92965_8BB8_1A89_41C0_E83468BC3178_es_0_0.webp
-imlevel_CCDA4C0C_D6F3_EB62_41CF_E5471319F010.url = media/popup_C5C92965_8BB8_1A89_41C0_E83468BC3178_es_0_1.webp
-imlevel_CCDA5C0C_D6F3_EB62_41B1_47CBF5267697.url = media/popup_C5C92965_8BB8_1A89_41C0_E83468BC3178_es_0_2.webp
-imlevel_CCDAAC0C_D6F3_EB62_41A4_851A01073445.url = media/popup_C5C92965_8BB8_1A89_41C0_E83468BC3178_es_0_3.webp
-imlevel_CCDABC0C_D6F3_EB62_41E2_486DF2CFF0C3.url = media/popup_C5C92965_8BB8_1A89_41C0_E83468BC3178_es_0_4.webp
-
-### Popup Imágen
+imlevel_4C7B6A8E_640B_519A_41D5_35DF1BF11F39.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_0.webp
+imlevel_4C78AA8E_640B_519A_418C_77BDA77541C6.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_1.webp
+imlevel_4C78BA8E_640B_519A_41D6_8CEBFCA01354.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_2.webp
+imlevel_4C78DA8E_640B_519A_41C4_5A33730119E7.url = media/map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52_es_3.webp
 
 ### Subtítulos de Audio
 
 ### Título
-panorama_4C88240E_6144_E8A9_41C2_99859B8964CA.label = 1
-panorama_4A9FEC86_6144_7999_41C3_7173FECC4D7C.label = 10
-panorama_4A9EF487_6144_69A7_41BB_3E0306B0E78B.label = 11
-panorama_4A9F7C67_6144_5967_41C1_0795E3B4854C.label = 12
-panorama_4A9E4445_6144_289B_41C9_CDC5CF224DEE.label = 13
-panorama_4A9E8C37_6144_38E7_41CE_07AC840B3A28.label = 14
-panorama_4A9E1417_6144_28A7_41D1_390DF6D0C636.label = 15
-panorama_4A9E3A87_6147_D9A7_41D0_74F325DF2214.label = 15-A
-panorama_4A9E9BD4_6147_DFB9_41B7_020912B61EA4.label = 16
-panorama_4A9B4289_6144_29AB_41D6_3C6173CB1704.label = 16-A
-panorama_4A99A3A3_6147_EF9F_41C5_8433749E062E.label = 17
-panorama_4A9B4A8A_6144_39A9_41C3_B172C209D267.label = 17-A
-panorama_4A9E2B38_6147_F8E9_41C8_4AB10BEC465E.label = 18
-panorama_4A9B9A33_6144_58FF_41CC_F7C922C5BBC0.label = 18-A
-panorama_4A9932EB_6147_E96F_41CC_58CAC652878E.label = 19
-panorama_4A986218_6144_68A9_41D0_BF6CA1F64C84.label = 19-A
-panorama_4AA76CCF_6144_F9A7_41B6_A80F4CE65EE2.label = 2
-panorama_4A9BEA2B_6144_78EF_41C8_383CCE5628A8.label = 20-A
-panorama_4A98B20A_6144_68A9_41CF_BC36F860131D.label = 21-A
-panorama_4A9879C7_6144_5BA7_41B2_94729E2E1579.label = 22-A
-panorama_4AA6275F_6144_E8A7_41CC_E087A791E6BA.label = 23
-panorama_4A9C7CF4_6144_D979_41D5_A2FDC35FDC98.label = 3
-panorama_4A9CF4F1_6144_E97B_41D4_DC19562268C9.label = 4
-panorama_4A9C4516_6144_28B9_41C8_985877C1B62F.label = 5
-panorama_4A9C8CF7_6144_3967_41B5_21BB22357EBC.label = 6
-panorama_4A9FD508_6144_28A9_41A7_84546AD4E4DE.label = 7
-panorama_4A9CDCE8_6144_5969_41D4_9B026283AA7D.label = 8
-panorama_4A9F24C9_6144_69AB_41CA_134B042FEFB3.label = 9
-photo_CAA990B5_8B98_0B89_41DF_C7ABB4FDC49C.label = IMG_1417
 photo_24255ACD_62FD_5713_41B8_FB7B718AA234.label = IMG_1420
 map_5FB4ED9F_66CF_906F_41CD_EBFC10227F52.label = IMG_1431 2
-photo_B461B708_8B98_7687_41D4_2DFAE6DB3C70.label = IMG_1445
-album_5FB09366_630F_713B_4177_D39E1726234E.label = Álbum de Fotos IMG_20250303_094238_00_merged
+panorama_7E8C9814_5876_4C50_41D4_1C9755233B33.label = IMG_20250303_094238_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_0.label = IMG_20250303_094238_00_merged_2026-04-06_20-42-31_capturadepantalla
+panorama_7DD250D5_5876_5DD0_41C7_F832B0326CC8.label = IMG_20250303_094637_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_1.label = IMG_20250303_094637_00_merged_2026-04-06_20-43-37_capturadepantalla
+panorama_7DD1994E_5876_4C30_41D3_E6901C4CC1A5.label = IMG_20250303_094917_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_2.label = IMG_20250303_094917_00_merged_2026-04-06_20-47-40_capturadepantalla
+panorama_7DD291A0_5876_BC70_41D0_D07D8EAB49A2.label = IMG_20250303_095301_00_merged
+panorama_7DD1DA0B_5876_CC30_41BC_AA4FF67C691D.label = IMG_20250303_095420_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_3.label = IMG_20250303_095420_00_merged_2026-04-06_20-48-27_capturadepantalla
+panorama_7DD1123F_5876_DC50_41D0_506C65630B8B.label = IMG_20250303_095522_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_4.label = IMG_20250303_095522_00_merged_2026-04-06_20-48-49_capturadepantalla
+panorama_7DD1CA85_5876_CC30_41BB_FE08B3CCBAAA.label = IMG_20250303_095612_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_5.label = IMG_20250303_095612_00_merged_2026-04-06_20-49-08_capturadepantalla
+panorama_7DD122B7_5876_FC50_41C4_F750CC8EF6E2.label = IMG_20250303_095738_00_merged
+panorama_7DD1EADA_5876_CDD0_41C8_78C34A877A6F.label = IMG_20250303_100015_00_merged
+panorama_7DD132EE_5876_DDF0_41A0_978A4577A468.label = IMG_20250303_100315_00_merged
+panorama_7DD1EB21_5876_CC70_41C1_83A7941DFB08.label = IMG_20250303_100544_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_6.label = IMG_20250303_100544_00_merged_2026-04-06_20-49-43_capturadepantalla
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_7.label = IMG_20250303_100544_00_merged_2026-04-06_20-49-51_capturadepantalla
+panorama_7DD17357_5876_BCD0_41C6_A90F32BE5C59.label = IMG_20250303_100643_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_8.label = IMG_20250303_100643_00_merged_2026-04-06_20-50-10_capturadepantalla
+panorama_7DD15B9B_5876_4C50_41A6_4D818055F5CF.label = IMG_20250303_100758_00_merged
+panorama_7DD103E1_5876_43F0_41C4_C1E2C92C85F9.label = IMG_20250303_100846_00_merged
+panorama_7DD17C05_5876_4430_41C9_C6B9647A5696.label = IMG_20250303_100927_00_merged
+panorama_7DD11414_5876_4450_41D1_8F22D74469B2.label = IMG_20250303_101105_00_merged
+panorama_7DD12C27_5876_4470_41D3_A3C3504AE854.label = IMG_20250303_101458_00_merged
+panorama_7DD2F41A_5876_4450_41D0_3555711ACC79.label = IMG_20250303_101556_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_9.label = IMG_20250303_101556_00_merged_2026-04-06_20-50-39_capturadepantalla
+panorama_7DD11C1B_5876_4450_41D1_BA4FCE0D673E.label = IMG_20250303_101740_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_10.label = IMG_20250303_101740_00_merged_2026-04-06_20-50-54_capturadepantalla
+panorama_7DD3241A_5877_C450_41D2_CF7078F3097B.label = IMG_20250303_101931_00_merged
+panorama_7DD30C61_5877_C4F0_41D5_735D52675761.label = IMG_20250303_102145_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_11.label = IMG_20250303_102145_00_merged_2026-04-06_20-51-15_capturadepantalla
+panorama_7DD354A7_5877_C470_41D3_687C85343A12.label = IMG_20250303_102200_00_merged
+panorama_7DD344ED_5877_C5F0_41C9_78AEA4864B4B.label = IMG_20250303_103116_00_173
+panorama_7DD36D31_5877_C450_41B4_A96CADA4D33A.label = IMG_20250303_103204_00_177
+panorama_7DD39578_5877_C4D0_41D2_3C45168576E4.label = IMG_20250303_103248_00_181
+panorama_7DD34DBF_5877_C450_41A1_A1E6A85A08C7.label = IMG_20250303_103506_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_12.label = IMG_20250303_103506_00_merged_2026-04-06_20-51-58_capturadepantalla
+panorama_7DD385BD_5876_4450_41D5_4FFECEC4FBF0.label = IMG_20250303_103821_00_197
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_13.label = IMG_20250303_103821_00_197_2026-04-06_20-52-14_capturadepantalla
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_14.label = IMG_20250303_103821_00_197_2026-04-06_20-52-33_capturadepantalla
+panorama_7DD265B1_5876_4450_41A9_C5B113CC4907.label = IMG_20250303_153002_00_merged
+panorama_7DD38D83_5876_4430_41D5_75C07646B2FD.label = IMG_20250303_153102_00_merged
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4_15.label = IMG_20250303_153102_02_merged_2026-04-06_20-53-31_capturadepantalla
+album_7AA5458E_6438_F39A_414F_E690A9DE8EC4.label = Álbum de Fotos IMG_20250303_094238_00_merged_2026-04-06_20-42-31_capturadepantalla
 
 ## Skin
 
@@ -133,9 +89,8 @@ Label_2E931F73_34BE_0B38_41CA_451EFD34886A.text = 17€ Por persona
 Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = ALBERGUE REDONDELA 
 Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = INFORMACIÓN
 Label_15DB5B77_34C6_0B38_41C8_0635D4A48DB3.text = Más Información por
-Label_2915E2AD_34C2_1528_41C9_5DA31B7F0752.text = Precios
-Label_47551C0C_7D15_5D13_41DF_0E447BD75F32.text = Santiago de Vilavella.
 Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = Santiago de Vilavella.
+Label_47551C0C_7D15_5D13_41DF_0E447BD75F32.text = Santiago de Vilavella.
 
 ### Imágen
 Image_04A67676_62CC_6979_41D3_96DA202D7B6B.url = skin/Image_04A67676_62CC_6979_41D3_96DA202D7B6B_es.jpg
@@ -146,8 +101,8 @@ Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_4
 Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_es.jpg
 
 ### Texto Multilínea
-HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.6100000000000065vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.699999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Albergue</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.699999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Santiago de Vilavella.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Este céntrico albergue se encuentra junto al Camino de Santiago, a 1 km de la estación de tren de Rendondela y a 5 del mirador de Campo da Rata, donde se encuentra el conocido como “el mejor banco del mundo”..</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Las habitaciones, compartidas o privadas, son funcionales y cuentan con Wi‑Fi gratis, taquillas, baño común y cama con cortinas de privacidad.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>El albergue sirve desayuno por un suplemento y dispone de cafetería vistosa y sencilla, guardabicis y lavandería.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999988vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999988vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de entrada: 12:00</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999988vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de salida: 9:30</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Traslado al aeropuerto:</B></SPAN></SPAN></DIV></div>
-HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.6100000000000065vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.699999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Albergue</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.699999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Santiago de Vilavella.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Este céntrico albergue se encuentra junto al Camino de Santiago, a 1 km de la estación de tren de Rendondela y a 5 del mirador de Campo da Rata, donde se encuentra el conocido como “el mejor banco del mundo”..</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Las habitaciones, compartidas o privadas, son funcionales y cuentan con Wi‑Fi gratis, taquillas, baño común y cama con cortinas de privacidad.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>El albergue sirve desayuno por un suplemento y dispone de cafetería vistosa y sencilla, guardabicis y lavandería.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999988vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999988vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de entrada: 12:00</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999988vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de salida: 9:30</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999975vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Traslado al aeropuerto:</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6999999999999966vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Albergue</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6999999999999966vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Santiago de Vilavella.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Este céntrico albergue se encuentra junto al Camino de Santiago, a 1 km de la estación de tren de Rendondela y a 5 del mirador de Campo da Rata, donde se encuentra el conocido como “el mejor banco del mundo”..</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Las habitaciones, compartidas o privadas, son funcionales y cuentan con Wi‑Fi gratis, taquillas, baño común y cama con cortinas de privacidad.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>El albergue sirve desayuno por un suplemento y dispone de cafetería vistosa y sencilla, guardabicis y lavandería.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999986vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999986vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de entrada: 12:00</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999986vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de salida: 9:30</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Traslado al aeropuerto:</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6999999999999966vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Albergue</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6999999999999966vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Santiago de Vilavella.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Este céntrico albergue se encuentra junto al Camino de Santiago, a 1 km de la estación de tren de Rendondela y a 5 del mirador de Campo da Rata, donde se encuentra el conocido como “el mejor banco del mundo”..</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Las habitaciones, compartidas o privadas, son funcionales y cuentan con Wi‑Fi gratis, taquillas, baño común y cama con cortinas de privacidad.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>El albergue sirve desayuno por un suplemento y dispone de cafetería vistosa y sencilla, guardabicis y lavandería.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999986vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999986vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de entrada: 12:00</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999986vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Hora de salida: 9:30</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999969vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Traslado al aeropuerto:</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
@@ -159,12 +114,4 @@ tour.name = Albergue Santiago de Vilavella 1 (Duplicado)
 ## Ventana
 
 ### Cuerpo
-htmlText_CB71E301_8B98_0E89_41D7_DF60085F350A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1 Hornilla electrica de 2 platos, 2500w</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1 Hornilla electrica de 1 pato,   1200w.</SPAN></DIV></BODY></HTML></div>
 htmlText_23BAE6FD_62FB_FCF3_41B6_4475544F79B5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B><U>Albergue Santiago de Vilavella:</U></B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Telefono:+34-673414752</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Gimail- reservas@redondelalbergue.com</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hora de entrada: 12:00</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hora de salida: 9:30</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
-htmlText_C9978F80_8B98_1587_41D6_A51E51BEBAA4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Maquna de cafe expreso de alta calidad.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El mejor cafe recien molida.</SPAN></DIV></BODY></HTML></div>
-
-### Título
-window_58497D8A_630F_310B_41D3_46EB5F825D33.title = Fotos Albergue
-window_3161DF5D_7C6B_98AC_41C1_1C66FC530DC4.title = Fotos Albergue
-window_CB7D62FB_8B98_0F79_41C1_946DD6FB8A85.title = HORNILLAS ELECTRICAS.
-window_C9984F80_8B98_1587_41A9_110E22EAA59E.title = MAQUINA DE CEFE EXPRESO.
